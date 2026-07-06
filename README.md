@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=24&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+%E2%9C%A8;Hi%2C+I'm+Aafreen+Shaikh;AI+%26+Data+Science+Student" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJpengzanc5dXNvMjR6dDA0d3E0ZHl3OHVoZjlncGIycHFoamhkcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eHQ5BsgBIBIGI/giphy.gif" width="100%" />
+</p>
 
-<!--
-**AafreenShaikh28/AafreenShaikh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Tech Stack</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img align = "center" src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,flask,fastapi,django,mysql,postgres,mongodb,sqlite,git,github,vscode,figma" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
